@@ -14,4 +14,10 @@ The program can be split into 3 main parts:
 I handled the first and third part of the program while my other teammate, @MiguelOrino handled the second part. He also handled the integration part of the program.
 
 ## Improvement in the Pipeline
+### Phase 1
 
+### Phase 2
+- Functional Back buttons.
+- Proper checking for all input fields.
+
+Updating...
